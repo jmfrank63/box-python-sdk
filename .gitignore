@@ -75,3 +75,6 @@ target/
 
 # Misc
 tokens.pk
+
+# Cloud 9
+.c9/
